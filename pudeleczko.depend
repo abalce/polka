@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708548391 source:c:\users\angel\desktop\nowe projekciki ez\pudeleczko\main.cpp
+	"pudelko.h"
+
+1708548649 c:\users\angel\desktop\nowe projekciki ez\pudeleczko\pudelko.h
+	<iostream>
+	<vector>
+
